@@ -1,6 +1,6 @@
 # Importing Libraries
 import json
-import random
+# import random
 import itertools
 
 
@@ -37,7 +37,7 @@ def predict():
 
         suggestions = list(set(itertools.chain.from_iterable(suggestions)))
 
-        random.shuffle(suggestions)
+        # random.shuffle(suggestions)
 
         suggestedAnimes = []
 
