@@ -1,5 +1,5 @@
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gunicorn==20.0.4
 lightfm==1.15
 matplotlib==3.2.1
